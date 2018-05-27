@@ -17,15 +17,15 @@ Anton Savill - 2017 President.
 The Current constitution was written in 2017. (Which tracking starts from, all previous constitution are to be considered 0.x.x.x)
 
 ## Explanation of Version Numbers
-⋅⋅⋅ X.0.0.0 Changes shall be used for major or significant alterations. i.e. complete rewrites or significant structure changes.  
-⋅⋅⋅ 0.X.0.0 Changes shall be reserved for removal, addition or replacement of entire sections within the constitution.  
-⋅⋅⋅ 0.0.X.0 Changes shall be for small changes within one or multiple sections of the constitution. Rearrangement of Sections shall be considered one of these increments too.  
-⋅⋅⋅ 0.0.0.X Changes are for minor changes, such as spelling & grammatical corrections, or for changes not related to the constitution itself. Such as this readme.  
+  X.0.0.0 Changes shall be used for major or significant alterations. i.e. complete rewrites or significant structure changes.  
+  0.X.0.0 Changes shall be reserved for removal, addition or replacement of entire sections within the constitution.  
+  0.0.X.0 Changes shall be for small changes within one or multiple sections of the constitution. Rearrangement of Sections shall be considered one of these increments too.  
+  0.0.0.X Changes are for minor changes, such as spelling & grammatical corrections, or for changes not related to the constitution itself. Such as this readme.  
 
 ## Updates
-⋅⋅⋅ 1.0.0.0 Initial Version.  
-⋅⋅⋅ 1.0.1.0 Updates to 5.2 (Amendments).  
-⋅⋅⋅ 1.0.1.1 Correction to spelling & structure within this readme.  
+  1.0.0.0 Initial Version.  
+  1.0.1.0 Updates to 5.2 (Amendments).  
+  1.0.1.1 Correction to spelling & structure within this readme.  
 
 # Contributing
 There should probably be a process of making pull requests for proposals to change the clubs constitution.
