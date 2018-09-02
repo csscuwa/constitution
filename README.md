@@ -26,6 +26,10 @@ The Current constitution was written in 2017. (Which tracking starts from, all p
   1.0.0.0 Initial Version.  
   1.0.1.0 Updates to 5.2 (Amendments).  
   1.0.1.1 Correction to spelling & structure within this readme.  
+  1.0.2.0 Update to the gender representatives and their wording.  
+  1.0.3.0 Addition of the section relating to "commerical exploitation of the club"  
+  1.0.3.1 Removed reference to "Central Banking of Guild Council" as it is no longer refered to that in any documentation I am able to find.  
+  1.0.3.2 Update to this readme, reflecting recent changes.  
 
 # Contributing
 There should probably be a process of making pull requests for proposals to change the clubs constitution.
