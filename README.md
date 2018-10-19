@@ -30,6 +30,10 @@ The Current constitution was written in 2017. (Which tracking starts from, all p
   1.0.3.0 Addition of the section relating to "commerical exploitation of the club"  
   1.0.3.1 Removed reference to "Central Banking of Guild Council" as it is no longer refered to that in any documentation I am able to find.  
   1.0.3.2 Update to this readme, reflecting recent changes.  
+  1.0.3.3 Additional Powers given to the Returning Officer to ensure a fair election in the clubs best interest is held.  
+  1.0.4.0 Added a section for the history of the constitution to be recorded, I'm expecting it to reference these change numbers.  
+  1.0.4.1 Formalised "Policies" as an alternative to regulations, this is simply so the committee can have choice of wording.  
+  1.0.5.0 Addition of the section on subcommittees, and the addition of the "Custodes" subcommittee, along with a template for new ongoing subcommittees.  
 
 # Contributing
 There should probably be a process of making pull requests for proposals to change the clubs constitution.

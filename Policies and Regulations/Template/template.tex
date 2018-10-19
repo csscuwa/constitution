@@ -1,0 +1,49 @@
+\documentclass[10pt,a4paper]{report}
+\usepackage[margin=2cm]{geometry} %to modify page layout
+\usepackage{titlesec} %to hide chapter titles
+\usepackage{enumitem} %to have control over how formatting on enumerated lists
+
+%because it's 2017 and clickable table of contents is needed
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks,
+	citecolor=black,
+	filecolor=black,
+	linkcolor=black,
+	urlcolor=black
+}
+
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+
+
+\title{Computer Science Students Club Policy}
+\author{POSITION}
+\date{Effective DATE}
+
+
+%To hide these full page chapter title page things which are just a waste of paper
+\titleformat{\chapter}[display] {\normalfont\bfseries}{}{0pt}{\Large}
+
+
+\begin{document}
+	\maketitle
+	\newpage
+	\begin{small}
+		\tableofcontents
+	\end{small}
+	\newpage
+	\chapter{Description}
+		\section{Purpose}
+		\section{Qualifications of Members}
+	\chapter{Responsibilities}
+		\section{Main Responsibilities}
+		\section{Supplementary Responsibilities}
+	\chapter{Rights, Powers and Privileges}
+		\section{Powers given by Committee to fulfill Subcommittee Purpose}
+		\section{Additional Powers granted in specific circumstances}
+	\chapter{Other Important Notes}
+\end{document}
