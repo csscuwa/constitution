@@ -12,7 +12,7 @@ And now that it's being tracked by git we can keep track of what happens and whe
 # Who?
 
 Anton Savill - 2017 President.
-
+Jordan Campbell - 2022 Vice-President
 # When
 The Current constitution was written in 2017. (Which tracking starts from, all previous constitution are to be considered 0.x.x.x)
 
@@ -34,7 +34,7 @@ The Current constitution was written in 2017. (Which tracking starts from, all p
   1.0.4.0 Added a section for the history of the constitution to be recorded, I'm expecting it to reference these change numbers.  
   1.0.4.1 Formalised "Policies" as an alternative to regulations, this is simply so the committee can have choice of wording.  
   1.0.5.0 Addition of the section on subcommittees, and the addition of the "Custodes" subcommittee, along with a template for new ongoing subcommittees.  
-
+  1.0.6.0 Addition of the Marketing Officer Position to the executive committee section
 # Contributing
 There should probably be a process of making pull requests for proposals to change the clubs constitution.
 I'm going to leave that up to a future committee to determine and decide on.
