@@ -35,6 +35,7 @@ The Current constitution was written in 2017. (Which tracking starts from, all p
   1.0.4.1 Formalised "Policies" as an alternative to regulations, this is simply so the committee can have choice of wording.  
   1.0.5.0 Addition of the section on subcommittees, and the addition of the "Custodes" subcommittee, along with a template for new ongoing subcommittees.  
   1.0.6.0 Addition of the Marketing Officer Position to the executive committee section
+  1.0.6.1 Renamed, and merged the Womens/Mens Representative position into the Gender Equity represenatative; added the title of Commander-of-Chief of the Cyber, and   Space force to the President, minor grammatical changes
 # Contributing
 There should probably be a process of making pull requests for proposals to change the clubs constitution.
 I'm going to leave that up to a future committee to determine and decide on.
