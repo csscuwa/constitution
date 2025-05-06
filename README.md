@@ -70,6 +70,8 @@ The Current constitution was written in 2017. (Which tracking starts from, all p
   - Fixed typos and capatilisation errors.
 - 1.0.10.0
   - Changed committee meeting notice period from 7 days to at least 3 days.
+- 1.1.0.0
+  - Added "Dissolution of the Club" section and clarified the "Commercial Exploitation of the Club" section, as required by the ATO.
 
 # Contributing
 
