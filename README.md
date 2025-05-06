@@ -68,6 +68,8 @@ The Current constitution was written in 2017. (Which tracking starts from, all p
   - Reformatted the updates section of the readme.
 - 1.0.9.4
   - Fixed typos and capatilisation errors.
+- 1.0.10.0
+  - Changed committee meeting notice period from 7 days to at least 3 days.
 
 # Contributing
 
