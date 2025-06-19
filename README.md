@@ -15,6 +15,7 @@ And now that it's being tracked by git we can keep track of what happens and whe
 
 Anton Savill - 2017 President.
 Jordan Campbell - 2022 Vice-President.
+Rory Cusworth - 2025 Vice-President.
 
 # When
 
@@ -65,6 +66,20 @@ The Current constitution was written in 2017. (Which tracking starts from, all p
   - Update of this readme to reflect changes.
 - 1.0.9.3
   - Reformatted the updates section of the readme.
+- 1.0.9.4
+  - Fixed typos and capatilisation errors.
+- 1.0.10.0
+  - Changed committee meeting notice period from 7 days to at least 3 days.
+- 1.1.0.0
+  - Added "Dissolution of the Club" section and clarified the "Commercial Exploitation of the Club" section, as required by the ATO.
+- 1.1.0.1
+  - Changed "Facebook page" to "social channels".
+- 1.2.0.0
+  - Removed representatives for first year, undergraduate, postgraduate, gender equity.
+- 1.2.1.0
+  - Update section on OCM responsibilities.
+- 1.2.1.1
+  - Added the Time force to the Commander-in-Chief duties of the President.
 
 # Contributing
 
