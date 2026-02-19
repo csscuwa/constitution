@@ -1,25 +1,21 @@
 # What?
 
-CSSC Constitution
+# CSSC Constitution & Current Policies 
 
-# Why?
+# Purpose
 
-It took me ages to find older versions of the clubs constitution for when I wanted to rewrite it in LaTeX in late 2017
+Single centralised place to track the old and current versions of offical Computer Science Students' Club documentation. 
 
-I went looking for older versions because officially the constitution we had between some time in 2015 to when I rewrote it and got it passed at our AGM we were using one which wasn't actually passed or valid.
-The changes in the end were minor, but it's worth noting that there were some.
-
-And now that it's being tracked by git we can keep track of what happens and when.
-
-# Who?
+# Credit to Contributors  
 
 Anton Savill - 2017 President.
 Jordan Campbell - 2022 Vice-President.
 Rory Cusworth - 2025 Vice-President.
+Ethan Weetman - 2026 President. 
 
-# When
+# Origins and Current Version. 
 
-The Current constitution was written in 2017. (Which tracking starts from, all previous constitution are to be considered 0.x.x.x)
+The Current constitution was written in 2017. Current Version: 1.2.1.1 | Rory Cusworth. 
 
 ## Explanation of Version Numbers
 
@@ -80,10 +76,3 @@ The Current constitution was written in 2017. (Which tracking starts from, all p
   - Update section on OCM responsibilities.
 - 1.2.1.1
   - Added the Time force to the Commander-in-Chief duties of the President.
-
-# Contributing
-
-There should probably be a process of making pull requests for proposals to change the clubs constitution.
-I'm going to leave that up to a future committee to determine and decide on.
-
-In the interim, just hassle committee with your changes and they'll pass and push up changes to the master branch and whatnot.
