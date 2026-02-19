@@ -1,30 +1,28 @@
-# What?
-
 # CSSC Constitution & Current Policies 
 
-# Purpose
+### Purpose
 
 Single centralised place to track the old and current versions of offical Computer Science Students' Club documentation. 
 
-# Credit to Contributors  
+### Credit to Contributors  
 
 Anton Savill - 2017 President.
 Jordan Campbell - 2022 Vice-President.
 Rory Cusworth - 2025 Vice-President.
 Ethan Weetman - 2026 President. 
 
-# Origins and Current Version. 
+### Origins and Current Version. 
 
 The Current constitution was written in 2017. Current Version: 1.2.1.1 | Rory Cusworth. 
 
-## Explanation of Version Numbers
+### Explanation of Version Numbers
 
   X.0.0.0 Changes shall be used for major or significant alterations. i.e. complete rewrites or significant structure changes.  
   0.X.0.0 Changes shall be reserved for removal, addition or replacement of entire sections within the constitution.  
   0.0.X.0 Changes shall be for small changes within one or multiple sections of the constitution. Rearrangement of Sections shall be considered one of these increments too.  
   0.0.0.X Changes are for minor changes, such as spelling & grammatical corrections, or for changes not related to the constitution itself. Such as this readme.  
 
-## Updates
+### Updates
 
 - 1.0.0.0
   - Initial Version.  
